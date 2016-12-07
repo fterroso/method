@@ -1,5 +1,7 @@
 # METHOD - Framework for Hybrid Techniques of Fuzzy Modeling
 
+##Getting Started
+
 METHOD provides a comprenhensive solution for fuzzy-modeling comprising many different tools. They range from centroids generation to parameter adjustment by using ANFIS. 
 
 ##Third-party library dependencies
