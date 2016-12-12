@@ -4,7 +4,8 @@
 
 METHOD provides a comprenhensive solution for fuzzy-modeling comprising many different tools. They range from centroids generation to parameter adjustment by using ANFIS. 
 
-##Third-party library dependencies
+## Requirements
+###Library dependencies
 * jDom
 * Commons Math: The Apache Commons Mathematics Library v3.3
 * jGAP
