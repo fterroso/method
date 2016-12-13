@@ -11,7 +11,10 @@ METHOD provides a comprenhensive solution for fuzzy-modeling comprising many dif
 * jGAP
 * Apache Xerces 
 
-##Bibliography
+## License
+METHOD is licensed under General Public License (GPL) version 3.
+
+##Reference
 
 For more info and for reference purposes, use these references (both in Spanish, sorry):
 
